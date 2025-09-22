@@ -16,7 +16,7 @@ and teamwork.
 - **Group Name:**   
 - **Collaborators:**  
   - Breniah Saimpre 
-  - [Name 2]  
+  - Fayolah Pierre
   - [Name 3]  
   - [Name 4]  
 
